@@ -8,4 +8,7 @@ opacity:0.9;
 .movieDetail{
 	text-align:center;
 	font-size:32px;
+	position:relative;
+	top:20px;
+	width:100%;
 }
